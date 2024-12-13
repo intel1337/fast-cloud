@@ -27,7 +27,6 @@
 
 <p align="center">
   <a href="https://github.com/intel1337/fast-cloud">
-    ![](https://github.com/user-attachments/assets/de857471-2930-4fb5-beda-d19dbb3e6056)
 
   </a>&nbsp;
 </p>
