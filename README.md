@@ -1,7 +1,7 @@
 <h1 align="center">FastCloud - FileUpload</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a2b6186a-28d6-4700-94ab-b7c4712f6dde" alt="logo" style="display: block; margin: auto;">
+  <img src="https://github.com/user-attachments/assets/dbf3f411-b03e-49d5-b153-1afc42335911" alt="logo" style="display: block; margin: auto;">
   <br>
   <em>
     Fast Client / Server File uploader
