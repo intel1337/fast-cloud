@@ -31,20 +31,20 @@
   </a>&nbsp;
 </p>
 
-# Graphs
+# Use Case
 ### Use Case :
 
 ![diagram-2](https://github.com/user-attachments/assets/5578fcc7-1b84-486b-900a-5db0cf26b0eb)
 
-### Diagrams : 
+# Diagrams : 
 
-> File upload : 
+### File upload : 
 ![diagram-3](https://github.com/user-attachments/assets/74848e05-2323-49fe-81b3-1c0928789b75)
 
-> Download Files :
+### Download Files :
 ![diagram-4](https://github.com/user-attachments/assets/730ec32b-b99e-4dd2-91e0-32b5d287a5b9)
 
-> List Files :
+### List Files :
 ![diagram-5](https://github.com/user-attachments/assets/f6cbd229-e941-4e5d-a86d-8c0f54810cea)
 
 
